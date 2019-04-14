@@ -1,0 +1,9 @@
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Helpers\bin\Debug\netstandard2.0\NHT.ASM.Helpers.deps.json
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Helpers\bin\Debug\netstandard2.0\NHT.ASM.Helpers.dll
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Helpers\obj\Debug\netstandard2.0\NHT.ASM.Helpers.csprojAssemblyReference.cache
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Helpers\obj\Debug\netstandard2.0\NHT.ASM.Helpers.csproj.CoreCompileInputs.cache
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Helpers\obj\Debug\netstandard2.0\NHT.ASM.Helpers.AssemblyInfoInputs.cache
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Helpers\obj\Debug\netstandard2.0\NHT.ASM.Helpers.AssemblyInfo.cs
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Helpers\bin\Debug\netstandard2.0\NHT.ASM.Helpers.pdb
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Helpers\obj\Debug\netstandard2.0\NHT.ASM.Helpers.dll
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Helpers\obj\Debug\netstandard2.0\NHT.ASM.Helpers.pdb

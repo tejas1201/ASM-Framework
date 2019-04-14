@@ -1,0 +1,11 @@
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Common\bin\Debug\netstandard2.0\NHT.ASM.Common.deps.json
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Common\bin\Debug\netstandard2.0\NHT.ASM.Common.dll
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Common\bin\Debug\netstandard2.0\NHT.ASM.Common.pdb
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Common\obj\Debug\netstandard2.0\NHT.ASM.Common.Resources.Messages.resources
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Common\obj\Debug\netstandard2.0\NHT.ASM.Common.csproj.GenerateResource.cache
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Common\obj\Debug\netstandard2.0\NHT.ASM.Common.csproj.CoreCompileInputs.cache
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Common\obj\Debug\netstandard2.0\NHT.ASM.Common.AssemblyInfoInputs.cache
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Common\obj\Debug\netstandard2.0\NHT.ASM.Common.AssemblyInfo.cs
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Common\obj\Debug\netstandard2.0\NHT.ASM.Common.dll
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Common\obj\Debug\netstandard2.0\NHT.ASM.Common.pdb
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Common\obj\Debug\netstandard2.0\NHT.ASM.Common.csprojAssemblyReference.cache

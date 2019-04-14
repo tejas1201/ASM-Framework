@@ -1,0 +1,9 @@
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Data\bin\Debug\netstandard2.0\NHT.ASM.Data.deps.json
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Data\bin\Debug\netstandard2.0\NHT.ASM.Data.dll
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Data\bin\Debug\netstandard2.0\NHT.ASM.Data.pdb
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Data\obj\Debug\netstandard2.0\NHT.ASM.Data.csprojAssemblyReference.cache
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Data\obj\Debug\netstandard2.0\NHT.ASM.Data.csproj.CoreCompileInputs.cache
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Data\obj\Debug\netstandard2.0\NHT.ASM.Data.AssemblyInfoInputs.cache
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Data\obj\Debug\netstandard2.0\NHT.ASM.Data.AssemblyInfo.cs
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Data\obj\Debug\netstandard2.0\NHT.ASM.Data.dll
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Data\obj\Debug\netstandard2.0\NHT.ASM.Data.pdb

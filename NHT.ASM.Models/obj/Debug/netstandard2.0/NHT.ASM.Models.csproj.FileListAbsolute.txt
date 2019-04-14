@@ -1,0 +1,12 @@
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Models\bin\Debug\netstandard2.0\NHT.ASM.Models.deps.json
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Models\bin\Debug\netstandard2.0\NHT.ASM.Models.dll
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Models\bin\Debug\netstandard2.0\NHT.ASM.Models.pdb
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Models\bin\Debug\netstandard2.0\NHT.ASM.Infrastructure.dll
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Models\bin\Debug\netstandard2.0\NHT.ASM.Infrastructure.pdb
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Models\obj\Debug\netstandard2.0\NHT.ASM.Models.csprojAssemblyReference.cache
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Models\obj\Debug\netstandard2.0\NHT.ASM.Models.csproj.CoreCompileInputs.cache
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Models\obj\Debug\netstandard2.0\NHT.ASM.Models.AssemblyInfoInputs.cache
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Models\obj\Debug\netstandard2.0\NHT.ASM.Models.AssemblyInfo.cs
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Models\obj\Debug\netstandard2.0\NHT.ASM.Models.csproj.CopyComplete
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Models\obj\Debug\netstandard2.0\NHT.ASM.Models.dll
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Models\obj\Debug\netstandard2.0\NHT.ASM.Models.pdb

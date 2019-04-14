@@ -1,0 +1,9 @@
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Infrastructure\bin\Debug\netstandard2.0\NHT.ASM.Infrastructure.deps.json
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Infrastructure\bin\Debug\netstandard2.0\NHT.ASM.Infrastructure.dll
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Infrastructure\obj\Debug\netstandard2.0\NHT.ASM.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Infrastructure\obj\Debug\netstandard2.0\NHT.ASM.Infrastructure.AssemblyInfoInputs.cache
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Infrastructure\obj\Debug\netstandard2.0\NHT.ASM.Infrastructure.AssemblyInfo.cs
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Infrastructure\obj\Debug\netstandard2.0\NHT.ASM.Infrastructure.csprojAssemblyReference.cache
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Infrastructure\bin\Debug\netstandard2.0\NHT.ASM.Infrastructure.pdb
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Infrastructure\obj\Debug\netstandard2.0\NHT.ASM.Infrastructure.dll
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Infrastructure\obj\Debug\netstandard2.0\NHT.ASM.Infrastructure.pdb

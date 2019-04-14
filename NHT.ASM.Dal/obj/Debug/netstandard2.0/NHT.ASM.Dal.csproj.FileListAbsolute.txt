@@ -1,0 +1,16 @@
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Dal\bin\Debug\netstandard2.0\NHT.ASM.Dal.deps.json
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Dal\bin\Debug\netstandard2.0\NHT.ASM.Dal.dll
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Dal\obj\Debug\netstandard2.0\NHT.ASM.Dal.csprojAssemblyReference.cache
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Dal\obj\Debug\netstandard2.0\NHT.ASM.Dal.csproj.CoreCompileInputs.cache
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Dal\obj\Debug\netstandard2.0\NHT.ASM.Dal.AssemblyInfoInputs.cache
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Dal\obj\Debug\netstandard2.0\NHT.ASM.Dal.AssemblyInfo.cs
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Dal\bin\Debug\netstandard2.0\NHT.ASM.Dal.pdb
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Dal\bin\Debug\netstandard2.0\NHT.ASM.Helpers.dll
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Dal\bin\Debug\netstandard2.0\NHT.ASM.Infrastructure.dll
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Dal\bin\Debug\netstandard2.0\NHT.ASM.Models.dll
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Dal\bin\Debug\netstandard2.0\NHT.ASM.Helpers.pdb
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Dal\bin\Debug\netstandard2.0\NHT.ASM.Infrastructure.pdb
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Dal\bin\Debug\netstandard2.0\NHT.ASM.Models.pdb
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Dal\obj\Debug\netstandard2.0\NHT.ASM.Dal.csproj.CopyComplete
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Dal\obj\Debug\netstandard2.0\NHT.ASM.Dal.dll
+E:\Office\Project\ASM\NHT.ASM\NHT.ASM.Dal\obj\Debug\netstandard2.0\NHT.ASM.Dal.pdb
